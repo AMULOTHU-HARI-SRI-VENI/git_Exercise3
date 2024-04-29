@@ -1,2 +1,3 @@
 hi, shall we complete git 3 execerise. 
-hi iam push the changes
+hi i am  push the changes
+hi i have added another file
