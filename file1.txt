@@ -1,6 +1,2 @@
 hi, shall we complete git 3 execerise. 
 hi iam push the changes
-
-
-
-
